@@ -1,4 +1,10 @@
-from linkedlist import OrderedLinkedList
+'''
+:Author: Arutselvan Muthusamy
+:Contact: arut.selvan15@gmail.com
+'''
+__updated__ = 'yyyy-MM-dd'
+
+from .orderedlinkedlist import OrderedLinkedList
 
 l = OrderedLinkedList()
 
